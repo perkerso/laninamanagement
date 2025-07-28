@@ -1,9 +1,4 @@
-# Ignore system files
 .DS_Store
 Thumbs.db
-
-# Node
-node_modules/
-
-# Environment
 .env
+node_modules/
