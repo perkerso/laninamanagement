@@ -1,13 +1,13 @@
 # La Nina Management Ltd Website
 
-This repository contains the website for **La Nina Management Ltd**, including company information, policies, and integrated payment options (Stripe and Revolut).
+This repository contains the official website for **La Nina Management Ltd**, modeled after Amarilla Management Ltd's structure and design.
 
 ## Pages
-- `index.html` – Welcome & description
-- `privacy-policy.html` – Privacy and cookie policy
+- `index.html` – Company overview
+- `privacy-policy.html` – Privacy & cookie policy
 - `refund-policy.html` – Refund policy
-- `payment.html` – Payment options
-- `style.css` – Basic styling
+- `payment.html` – Secure payment options
+- `style.css` – Styling
 
 ## License
-MIT License – see [LICENSE](./LICENSE)
+MIT License – see [LICENSE](LICENSE)
